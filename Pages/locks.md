@@ -28,10 +28,10 @@ seotitle: "best locks"
 		<td><a class="big-button" target="_blank" href="https://amzn.to/2MU6525">Compare Lowest Prices</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="l"><img alt="cam" class="table-image" src="/img//.png"/></a></td>
-		<td>cam</td>
-		<td>$</td>
-		<td><a class="big-button" target="_blank" href="">Compare Lowest Prices</a></td>
+		<td><a target="_blank" href="https://amzn.to/2Uug8f6"><img alt="HES 4500 Series Stainless Steel Low Profile Heavy Duty and Fire Rated Electric Strike Body, Satin Stainless Steel Finish" class="table-image" src="/img/locks/4500strike.png"/></a></td>
+		<td>HES 4500 Series Stainless Steel</td>
+		<td>$335.42</td>
+		<td><a class="big-button" target="_blank" href="https://amzn.to/2Uug8f6">Compare Lowest Prices</a></td>
 	</tr>
 </table>
  <nav>
