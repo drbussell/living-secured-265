@@ -5,7 +5,7 @@ permalink: "/doors/"
 seotitle: "secured doors"
 ---
 
-<h1 style="text-align:center;">Locks</h1>
+<h1 style="text-align:center;">Secured doors</h1>
 <h3 class="heading-center">cam</h3>
 
 <table class="basic-table">
