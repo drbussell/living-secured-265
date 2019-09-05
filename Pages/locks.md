@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Locks"
+title: "Door Locks"
 permalink: "/locks/"
 seotitle: "best locks"
 ---
