@@ -5,7 +5,6 @@ permalink: "/locks/"
 seotitle: "best locks"
 ---
 
-<h1 style="text-align:center;">Locks</h1>
 <h3 class="heading-center">Electric stikes</h3>
 
 <table class="basic-table">
