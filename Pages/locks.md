@@ -16,7 +16,7 @@ seotitle: "best locks"
 		<th>Shop</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://amzn.to/2ZQFtkr"><img alt="HES 5000 Series Stainless Steel Compact High Performance Electric Strike Body, Satin Stainless Steel Finish" class="table-image" src="/img/locks/.png"/></a></td>
+		<td><a target="_blank" href="https://amzn.to/2ZQFtkr"><img alt="HES 5000 Series Stainless Steel Compact High Performance Electric Strike Body, Satin Stainless Steel Finish" class="table-image" src="/img/locks/1500strike.png"/></a></td>
 		<td>1500 Series electric strike</td>
 		<td>$100</td>
 		<td><a class="big-button" target="_blank" href="https://amzn.to/2ZQFtkr">Compare Lowest Prices</a></td>
