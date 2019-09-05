@@ -1,12 +1,12 @@
---
-layout: default
+---
+layout: archive
 title: "locks"
 permalink: "/locks/"
 seotitle: "best locks"
 ---
 
 <h1 style="text-align:center;">Locks</h1>
-<h3 class="heading-center">cam</h3>
+<h3 class="heading-center">Electric stikes</h3>
 
 <table class="basic-table">
 	<tr>
@@ -16,10 +16,10 @@ seotitle: "best locks"
 		<th>Shop</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://amzn.to/2ZdBDRV"><img alt="Visionis FPC-5192 600 lbs Indoor Electromagnetic Lock with 600 lbs L and Z Bracket for Inswinging Door" class="table-image" src="/img/bongs/.png"/></a></td>
-		<td>Visionis FPC-5192 600 lbs Indoor Electromagnetic Lock with 600 lbs L and Z Bracket for Inswinging Door</td>
-		<td>$</td>
-		<td><a class="big-button" target="_blank" href="">Compare Lowest Prices</a></td>
+		<td><a target="_blank" href="https://amzn.to/2ZQFtkr"><img alt="HES 5000 Series Stainless Steel Compact High Performance Electric Strike Body, Satin Stainless Steel Finish" class="table-image" src="/img/locks/.png"/></a></td>
+		<td>1500 Series electric strike</td>
+		<td>$100</td>
+		<td><a class="big-button" target="_blank" href="https://amzn.to/2ZQFtkr">Compare Lowest Prices</a></td>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="" class="table-image" src="/img/bongs/.png"/></a></td>
@@ -35,8 +35,8 @@ seotitle: "best locks"
 	</tr>
 </table>
  <nav>
- 	
-  <ul class="taxonomy__index">
+
+<ul class="taxonomy__index">
   {% assign postsInYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
   {% for year in postsInYear %}
     <li>
@@ -59,4 +59,3 @@ seotitle: "best locks"
     <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
   </section>
 {% endfor %}
-
