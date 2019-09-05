@@ -16,16 +16,16 @@ seotitle: "best locks"
 		<th>Shop</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://amzn.to/2ZQFtkr"><img alt="HES 5000 Series Stainless Steel Compact High Performance Electric Strike Body, Satin Stainless Steel Finish" class="table-image" src="/img/locks/1500strike.png"/></a></td>
+		<td><a target="_blank" href="https://amzn.to/2ZQFtkr"><img alt="HES 5000 Series Stainless Steel Compact High Performance Electric Strike Body, Satin Stainless Steel Finish" class="table-image" src="/img/locks/5000strike.png"/></a></td>
 		<td>1500 Series electric strike</td>
 		<td>$100</td>
 		<td><a class="big-button" target="_blank" href="https://amzn.to/2ZQFtkr">Compare Lowest Prices</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="" class="table-image" src="/img/bongs/.png"/></a></td>
-		<td>cam</td>
-		<td>$</td>
-		<td><a class="big-button" target="_blank" href="">Compare Lowest Prices</a></td>
+		<td><a target="_blank" href="https://amzn.to/2MU6525"><img alt="HES 5200 Series Stainless Steel" class="table-image" src="/img/locks/5200strike.png"/></a></td>
+		<td>HES 5200 Series Stainless Steel</td>
+		<td>$88</td>
+		<td><a class="big-button" target="_blank" href="https://amzn.to/2MU6525">Compare Lowest Prices</a></td>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="l"><img alt="cam" class="table-image" src="/img//.png"/></a></td>
