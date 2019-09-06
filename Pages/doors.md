@@ -22,7 +22,7 @@ seotitle: "secured doors"
 		<td><a class="big-button" target="_blank" href="https://amzn.to/2ZTYkLe">Compare Lowest Prices</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://amzn.to/34siwYm" class="table-image" src="/img/doors/ptdoorcord.png"/></a></td>
+		<td><a target="_blank" href="https://amzn.to/34siwYm"><img alt="Power Transfer Door Cord" class="table-image" src="/img/doors/ptdoorcord.png"/></a></td>
 		<td>Power Transfer Door Cord</td>
 		<td>$21.64</td>
 		<td><a class="big-button" target="_blank" href="https://amzn.to/34siwYm">Compare Lowest Prices</a></td>
