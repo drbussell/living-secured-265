@@ -16,10 +16,10 @@ seotitle: "secured doors"
 		<th>Shop</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://amzn.to/2ZdBDRV"><img alt="Visionis FPC-5192 600 lbs Indoor Electromagnetic Lock with 600 lbs L and Z Bracket for Inswinging Door" class="table-image" src="/img/bongs/.png"/></a></td>
-		<td>Visionis FPC-5192 600 lbs Indoor Electromagnetic Lock with 600 lbs L and Z Bracket for Inswinging Door</td>
-		<td>$</td>
-		<td><a class="big-button" target="_blank" href="">Compare Lowest Prices</a></td>
+		<td><a target="_blank" href="https://amzn.to/2ZTYkLe"><img alt="Securitron BPS-12/24-1 Power Supply 12/24Vdc @ 1 Amp, Satin Chrome" class="table-image" src="/img/doors/12-24-1ps.png"/></a></td>
+		<td>Securitron BPS-12/24-1 Power Supply </td>
+		<td>$152.32</td>
+		<td><a class="big-button" target="_blank" href="https://amzn.to/2ZTYkLe">Compare Lowest Prices</a></td>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="" class="table-image" src="/img/bongs/.png"/></a></td>
