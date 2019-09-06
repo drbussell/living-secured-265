@@ -22,16 +22,16 @@ seotitle: "secured doors"
 		<td><a class="big-button" target="_blank" href="https://amzn.to/2ZTYkLe">Compare Lowest Prices</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="" class="table-image" src="/img/bongs/.png"/></a></td>
-		<td>cam</td>
-		<td>$</td>
-		<td><a class="big-button" target="_blank" href="">Compare Lowest Prices</a></td>
+		<td><a target="_blank" href="https://amzn.to/34siwYm" class="table-image" src="/img/doors/ptdoorcord.png"/></a></td>
+		<td>Power Transfer Door Cord</td>
+		<td>$21.64</td>
+		<td><a class="big-button" target="_blank" href="https://amzn.to/34siwYm">Compare Lowest Prices</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="l"><img alt="cam" class="table-image" src="/img//.png"/></a></td>
-		<td>cam</td>
-		<td>$</td>
-		<td><a class="big-button" target="_blank" href="">Compare Lowest Prices</a></td>
+		<td><a target="_blank" href="https://amzn.to/2PUTLki"><img alt="Lenel LNL-1320 Access Control Dual Reader Interface Module DOC-600-R" class="table-image" src="/img/doors/lnl1320.png"/></a></td>
+		<td>Lenel LNL-1320 Access Control Dual Reader Interface Module DOC-600-R</td>
+		<td>$499.99</td>
+		<td><a class="big-button" target="_blank" href="https://amzn.to/2PUTLki">Compare Lowest Prices</a></td>
 	</tr>
 </table>
  <nav>
