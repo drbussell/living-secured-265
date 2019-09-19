@@ -30,7 +30,7 @@ seotitle: "security cameras"
 	<tr>
 		<td><a target="_blank" href="https://goto.walmart.com/c/1929713/565706/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FAXIS-Q3709-PVE-33-Megapixel-Network-Camera-Color-320-x-240-Cable-Dome-Wall-Mount-SENSORS-PROVIDE-180-VIEW%2F158501710%3Fsourceid%3Dcsebr03b54b5f4203a74cc58ed05842ba3e0edb%26wmlspartner%3Dbizratecom%26affcmpid%3D2399535142%26tmode%3D0000%26veh%3Dcse%26szredirectid%3D15683289808559971898910070301008005"><img alt="Axis Q3708 Series" class="table-image" src="/img/cam/q3708-pve.png"/></a></td>
 		<td>Axis Q3708 Series</td>
-		<td>$2592.95</td>
+		<td>$2,592.95</td>
 		<td><a class="big-button" target="_blank" href="https://goto.walmart.com/c/1929713/565706/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FAXIS-Q3709-PVE-33-Megapixel-Network-Camera-Color-320-x-240-Cable-Dome-Wall-Mount-SENSORS-PROVIDE-180-VIEW%2F158501710%3Fsourceid%3Dcsebr03b54b5f4203a74cc58ed05842ba3e0edb%26wmlspartner%3Dbizratecom%26affcmpid%3D2399535142%26tmode%3D0000%26veh%3Dcse%26szredirectid%3D15683289808559971898910070301008005">Compare Lowest Prices</a></td>
 	</tr>
   <tr>
