@@ -20,7 +20,7 @@ seotitle: "security cameras"
 		<td>$1,199.00</td>
 		<td><a class="big-button" target="_blank" href="https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338330075&mpre=https%3A%2F%2Fwww.ebay.com%2Fitm%2F133011902296">Compare Lowest Prices</a></td>
 	</tr>
-  <ta
+  </table>
      <h3 class="heading-center">90 cam</h3>
  <table class="basic-table">
 	<tr>
