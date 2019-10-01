@@ -65,7 +65,6 @@ seotitle: "security cameras"
 		<td><a class="big-button" target="_blank" href="https://goto.walmart.com/c/1929713/565706/9383?veh=aff&sourceid=imp_000011112222333344&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FAXIS-Q3709-PVE-33-Megapixel-Network-Color-Camera-180-Degree-Dome-Wall-Mount%2F47408844%3Fwmlspartner%3Dwmtlabs%26adid%3D22222222222034657505%26wmlspartner%3Dwmtlabs%26wl0%3De%26wl1%3Do%26wl2%3Dc%26wl3%3D10352731704%26wl4%3Dpla-4587162513390321%26wl12%3D47408844_10000001882%26wl14%3Daxis%2520q3709%2520series%2520walmart%26veh%3Dsem%26msclkid%3D0db475daa323179f8ccf28595791900a">Compare Lowest Prices</a></td>
 	</tr>
 </table>
- <nav>
 
 <ul class="taxonomy__index">
   {% assign postsInYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
